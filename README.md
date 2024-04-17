@@ -1,1 +1,1 @@
-# Scilab
+# Scilab Statistical Mechanics Program.
