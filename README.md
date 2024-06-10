@@ -1,2 +1,2 @@
 # Scilab Statistical Mechanics Program.
-<h1> Microstate and Macrostate. </h1>
+<h6> Microstate and Macrostate. </h6>
